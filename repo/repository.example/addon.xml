@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="MATTA" name="MATTXYZ" version="0.0.1" provider-name="MATTA">
+<addon id="MATTA" name="MATTXYZ" version="0.0.1" provider-name="MATTA2">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/MATTXYZ78/MATTXYZ/MASTER/repo/zips/addons.xml</info>
